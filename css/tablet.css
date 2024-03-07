@@ -28,12 +28,12 @@
     align-items: center;
 }
 
-.link-social {
-    justify-content: flex-end;
+.link-social-ti {
+    margin: 0 auto;
 }
 
-.social-media {
-    padding: 0 1rem;
+.link-social-fl {
+    margin: 0 auto;
 }
 
 .phrase {

@@ -1,0 +1,42 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.button {
+    width: 20rem;
+    font-size: 2rem;
+}
+
+.services {
+    display: flex;
+}
+
+.box-service {
+    margin: 2rem 1rem;
+}
+
+.form {
+    width: 70%;
+}
+
+.footer-link {
+    display: flex;
+    align-items: center;
+}
+
+.link-social {
+    justify-content: flex-end;
+}
+
+.social-media {
+    padding: 0 1rem;
+}
+
+.phrase {
+    width: 50%;
+    margin: 0 auto;
+}

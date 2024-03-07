@@ -88,9 +88,9 @@ nav {
 .cont-header {
     background-image: url(../img/hero.jpg);
     height: 45rem;
-    background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .hero {
